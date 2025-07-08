@@ -52,6 +52,7 @@
 ---
 
 📌 **Notable Projects**
+- 📆 [kdemos.com (React JavaScript)](https://github.com/francordel/calendario-quedadas.git)
 - 🎥 [Movie Recommender System (Java)](https://github.com/francordel/recommender-system.git)
 - 🧠 [MiSintaxis (Flutter, NLP, PyTorch)](https://misintaxis5.wordpress.com/)
 - 🎮 [TURBINE: 3D Mobile Game (Unity, C#)](https://youtu.be/NnEbpTSegqw)
