@@ -9,6 +9,7 @@
 ---
 
 💼 **Experience**
+- 🔬 AI Researcher (Visitor) — University of Cambridge, UK 🇬🇧 
 - 🔬 AI Researcher Engineer (Visitor) — IBM Research, Dublin 🇮🇪  
 - 🔐 AI & Cybersecurity Researcher — Universidad de Murcia, Spain  
 - 🧩 Specialist Software Engineer — Vodafone Innovation Hub, Málaga  
