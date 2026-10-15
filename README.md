@@ -19,6 +19,7 @@
 ---
 
 🏆 **Awards**
+- 🥇 Extraordinary Final Master Thesis Award (UMU)  
 - 🥇 Extraordinary Final Degree Project Award (UMU)  
 - 🥇 Multiple startup & regional awards with MiSintaxis  
 - 🥇 High School Excellence Award  
