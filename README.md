@@ -53,6 +53,7 @@
 ---
 
 📌 **Notable Projects**
+- ⚔️[Myrtia (Red Teaming Framework)] (https://github.com/francordel/myrtia.git)
 - 📆 [kdemos.com (React JavaScript)](https://github.com/francordel/calendario-quedadas.git)
 - 🎥 [Movie Recommender System (Java)](https://github.com/francordel/recommender-system.git)
 - 🧠 [MiSintaxis (Flutter, NLP, PyTorch)](https://misintaxis5.wordpress.com/)
